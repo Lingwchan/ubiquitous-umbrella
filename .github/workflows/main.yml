@@ -1,7 +1,3 @@
-.github/workflows/NEW.yml
-
-
-
 name: FreeRDP
 
 on: workflow_dispatch
